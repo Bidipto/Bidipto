@@ -1,5 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=The+capacity+to+learn+is+a+gift%3B;The+ability+to+learn+is+a+skill%3B;The+willingness+to+learn+is+a+choice.;%E2%80%94+Brian+Herbert" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bidipto/Bidipto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!--
 **Bidipto/Bidipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
